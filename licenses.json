@@ -1,10 +1,5 @@
 {
-    "DOPAMINE-VIP-777": {
-        "expiry": "2026-12-31",
-        "active": true
-    },
-    "TEST-GUNLUK-123": {
-        "expiry": "2026-09-25",
-        "active": true
-    }
+    "NOWA-3ROQ-4XVI-5SL9": {"days": 7, "active": true},
+    "NOWA-DZPR-SN0M-7IS7": {"days": 15, "active": true},
+    "NOWA-LAK0-QEXF-IRUA": {"days": 30, "active": true}
 }
